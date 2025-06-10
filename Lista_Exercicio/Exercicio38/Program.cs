@@ -25,4 +25,4 @@ semanas = anos * 52;
 Console.WriteLine("Sua idade em anos é: " + anos + " anos.");
 Console.WriteLine("Sua idade em meses é: " + meses + " meses.");
 Console.WriteLine("Sua idade em dias é: " + dias + " dias.");
-Console.WriteLine("Sua idade em semanas é: " + semanas + " semanas.");
+Console.WriteLine("Sua idade em semanas é: " + semanas + " semanas."); 

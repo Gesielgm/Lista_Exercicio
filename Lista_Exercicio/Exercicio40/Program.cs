@@ -14,4 +14,4 @@ a = Math.Pow(b,2) + Math.Pow(c,2);
 a = Math.Sqrt(a);
 
 
-Console.WriteLine("O resultado da hipotenusa é: " + a);
+Console.WriteLine("O resultado da hipotenusa é: " + a); 

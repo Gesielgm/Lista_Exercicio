@@ -12,4 +12,4 @@ salarioFuncionario = Convert.ToDecimal(Console.ReadLine());
 salarios = salarioFuncionario / salarioMinimo;
 
 Console.WriteLine("O Funcionário recebe: " + salarios + " salários mínimos");
-
+ 

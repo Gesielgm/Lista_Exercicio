@@ -11,4 +11,4 @@ diagonalMenor = Convert.ToDecimal(Console.ReadLine());
 
 area = (diagonalMaior * diagonalMenor) / 2;
 
-Console.WriteLine("A área do losango é: " + area + " m².");
+Console.WriteLine("A área do losango é: " + area + " m²."); 

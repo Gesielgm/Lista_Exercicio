@@ -8,7 +8,7 @@ c1 = c1 + (c1 * 0.02m);
 c2 = c2 + (c2 * 0.02m);
 
 restoSalario = (salario - c1) - c2;
-Console.WriteLine("Restará do salário de João: R$ " + restoSalario);
+Console.WriteLine("Restará do salário de João: R$ " + restoSalario); 
 
 
 

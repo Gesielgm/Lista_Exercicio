@@ -16,4 +16,4 @@ altura = Convert.ToDecimal(Console.ReadLine());
 
 area = ((baseMenor + baseMaior) * altura) / 2;
 
-Console.WriteLine("A área do trapézio é: " + area + "m².");
+Console.WriteLine("A área do trapézio é: " + area + "m²."); 

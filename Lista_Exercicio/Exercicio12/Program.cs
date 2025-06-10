@@ -13,4 +13,4 @@ salarioFinal = salarioAumento - (salarioAumento * 0.08m);
 
 Console.WriteLine("O salário inicial é: R$ " + salario);
 Console.WriteLine("O salário com aumento é: R$ " + salarioAumento);
-Console.WriteLine("O salário com desconto é: R$ " + salarioFinal);
+Console.WriteLine("O salário com desconto é: R$ " + salarioFinal); 

@@ -17,4 +17,4 @@ Console.WriteLine("O valor total de vendas foi: " + valor );
 
 valorGuardar = valor * 0.1m;
 
-Console.WriteLine("O valor que será guardado na poupança é R$ " + valorGuardar);
+Console.WriteLine("O valor que será guardado na poupança é R$ " + valorGuardar); 

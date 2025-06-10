@@ -14,4 +14,4 @@ anelAlimento = frangos * 3.50m;
 
 valorTotal = anelChip + (anelAlimento * 2);
 
-Console.WriteLine("O valor total para equipar os frangos é: R$ " + valorTotal);
+Console.WriteLine("O valor total para equipar os frangos é: R$ " + valorTotal); 

@@ -43,4 +43,4 @@ for (int i = 1; i <=10; i++)
     divisao = numero / i;
 
     Console.WriteLine(i + " / " + numero + " = " + divisao);
-} 
+}  

@@ -17,5 +17,5 @@ salarioBruto = (horasExtras * 15.00m) + (horasTrab * 100.00m);
 salarioLiquido = salarioBruto - ( salarioBruto * 0.1m) ;
 
 Console.WriteLine("O salário bruto é: R$ " + salarioBruto);
-Console.WriteLine("O salário liquido é: R$ " + salarioLiquido);
+Console.WriteLine("O salário liquido é: R$ " + salarioLiquido); 
 

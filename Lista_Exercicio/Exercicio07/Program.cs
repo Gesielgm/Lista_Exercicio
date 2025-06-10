@@ -12,4 +12,4 @@ mes = mes * 30;
 
 totalDias = mes + dia;
 
-Console.WriteLine("Se passaram " + totalDias + " dias.");
+Console.WriteLine("Se passaram " + totalDias + " dias."); 

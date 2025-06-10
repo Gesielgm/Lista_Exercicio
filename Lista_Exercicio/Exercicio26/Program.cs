@@ -14,4 +14,4 @@ num3 = Convert.ToInt32(Console.ReadLine());
 
 multiplicacao = num1 * num2 * num3;
 
-Console.WriteLine("O resultado da multiplicação dos números é: " +  multiplicacao + ".");
+Console.WriteLine("O resultado da multiplicação dos números é: " +  multiplicacao + "."); 

@@ -19,5 +19,5 @@ valorFelipe = valorDividido + (centavos * 3);
 
 Console.WriteLine("O valor que o Carlos deverá pagar é: R$ " + valorDividido);
 Console.WriteLine("O valor que o André deverá pagar é: R$ " + valorDividido);
-Console.WriteLine("O valor que o André deverá pagar é: R$ " + valorFelipe);
+Console.WriteLine("O valor que o André deverá pagar é: R$ " + valorFelipe); 
 

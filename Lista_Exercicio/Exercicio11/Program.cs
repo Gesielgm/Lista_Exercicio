@@ -11,4 +11,4 @@ resto = tempoAcidentes % 360;
 meses = resto / 30;
 dias = resto % 30;
 
-Console.WriteLine("O tempo sem acidentes é: " + dias+ " dias / " + meses + " meses / " + anos + " anos.");
+Console.WriteLine("O tempo sem acidentes é: " + dias+ " dias / " + meses + " meses / " + anos + " anos."); 

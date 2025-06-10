@@ -16,4 +16,4 @@ grande = Convert.ToInt32(Console.ReadLine());
 valorArrecadado = (pequena*10) + (media*12) + (grande*15);
 
 
-Console.WriteLine("O valor arrecadado é: R$ " + valorArrecadado);
+Console.WriteLine("O valor arrecadado é: R$ " + valorArrecadado); 

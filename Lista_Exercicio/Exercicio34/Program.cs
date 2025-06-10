@@ -7,4 +7,4 @@ lado = Convert.ToDecimal(Console.ReadLine());
 
 area = lado * lado;
 
-Console.WriteLine("A área do quadrado é: " + area + " m²");
+Console.WriteLine("A área do quadrado é: " + area + " m²"); 

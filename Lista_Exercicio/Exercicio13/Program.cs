@@ -13,4 +13,4 @@ unidade = numero % 10;
 
 Console.WriteLine("CENTENA = " + centena);
 Console.WriteLine("DEZENA = " + dezena);
-Console.WriteLine("UNIDADE = " + unidade);
+Console.WriteLine("UNIDADE = " + unidade); 
