@@ -20,5 +20,5 @@ alturaPredio = (altura * sombraPredio) / sombra;
 
 
 
-Console.WriteLine("A altura do prédio é: " + alturaPredio);
+Console.WriteLine("A altura do prédio é: " + alturaPredio); 
 

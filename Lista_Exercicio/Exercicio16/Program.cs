@@ -16,4 +16,4 @@ presunto = (quantSanduiches * 50) / 1000;
 
 Console.WriteLine("A quantidade necessária (em quilos) de carne é: " + carne);
 Console.WriteLine("A quantidade necessária (em quilos) de queijo é: " + queijo);
-Console.WriteLine("A quantidade necessária (em quilos) de presunto é: " + presunto);
+Console.WriteLine("A quantidade necessária (em quilos) de presunto é: " + presunto); 

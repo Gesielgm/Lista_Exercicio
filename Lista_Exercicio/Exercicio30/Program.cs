@@ -14,4 +14,4 @@ comissao = vendas * 0.04m;
 salarioTotal = salario + comissao;
 
 Console.WriteLine("O salário total do colaborador é: R$ " + salarioTotal);
-Console.WriteLine("O total de comissões é: R$ " + comissao);
+Console.WriteLine("O total de comissões é: R$ " + comissao); 

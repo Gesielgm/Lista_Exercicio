@@ -23,4 +23,4 @@ double quadrado2 = Math.Pow(distancia2, 2);
 double raiz = Math.Sqrt(quadrado1 + quadrado2);
 
 
-Console.WriteLine("A distância é aproximadamente: " + raiz);
+Console.WriteLine("A distância é aproximadamente: " + raiz); 

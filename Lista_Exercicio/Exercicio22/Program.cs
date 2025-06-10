@@ -28,4 +28,4 @@ somaCent = (umCentavo * 0.01m) + (cincoCentavos * 0.05m) + (dezCentavos * 0.10m)
 
 somaTotal = umReal + somaCent;
 
-Console.WriteLine("Você economizou: R$ " + somaTotal + ".");
+Console.WriteLine("Você economizou: R$ " + somaTotal + "."); 

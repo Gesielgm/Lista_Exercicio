@@ -12,4 +12,4 @@ idade = Convert.ToInt32(Console.ReadLine());
 
 dias = idade * 365;
 
-Console.WriteLine(nome.ToUpper() + ", você já viveu " + dias + " dias");
+Console.WriteLine(nome.ToUpper() + ", você já viveu " + dias + " dias"); 

@@ -13,4 +13,4 @@ blusas = Convert.ToInt32(Console.ReadLine());
 
 totalNovelos = novelo * blusas;
 
-Console.WriteLine("Serão necessários " + totalNovelos + " novelos para confeccionar o total de blusas.");
+Console.WriteLine("Serão necessários " + totalNovelos + " novelos para confeccionar o total de blusas."); 

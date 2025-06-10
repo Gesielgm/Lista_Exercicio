@@ -13,4 +13,4 @@ nota3 = Convert.ToInt32(Console.ReadLine());
 
 media = ( (nota1 * 1) + (nota2 * 2) + (nota3 * 3) )/ 6;
 
-Console.WriteLine("A média ponderada do aluno é: " + media);
+Console.WriteLine("A média ponderada do aluno é: " + media); 

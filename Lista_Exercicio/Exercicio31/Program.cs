@@ -19,5 +19,5 @@ else
     emagrecer = peso - ( peso * 0.20m);
 
     Console.WriteLine("O novo peso se a pessoa emagrecer é: " + emagrecer);
-    Console.WriteLine("O novo peso se a pessoa engordar é: " + engordar);
+    Console.WriteLine("O novo peso se a pessoa engordar é: " + engordar); 
 }

@@ -8,4 +8,4 @@ peso = Convert.ToDecimal(Console.ReadLine());
 
 valor = (peso * 12.00m);
 
-Console.WriteLine("O peso do prato é: R$  " + valor);
+Console.WriteLine("O peso do prato é: R$  " + valor); 
