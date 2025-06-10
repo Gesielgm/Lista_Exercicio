@@ -6,14 +6,14 @@ int adicao, subtracao , multiplicacao, divisao;
 Console.WriteLine("Digite um numero que gostaria de saber a tabuada:");
 numero = Convert.ToInt32(Console.ReadLine());
 
-for(int i = 1; i < 11; i++)
+for(int i = 1; i <= 10; i++)
 {
     adicao = numero + i;
      
-    Console.WriteLine(numero + " + " + i + " = " + adicao);
+    Console.WriteLine(i + " + " + numero + " = " + adicao);
     
 }
-for (int i = 1; i < 11; i++)
+for (int i = 1; i <= 10; i++)
 {
     if(numero < i)
     {
@@ -25,22 +25,22 @@ for (int i = 1; i < 11; i++)
         subtracao = numero - i;
     }
 
-    Console.WriteLine(numero + " - " + i + " = " + subtracao);
+    Console.WriteLine(i + " - " + numero + " = " + subtracao);
 }
 
-for (int i = 1; i < 11; i++)
+for (int i = 1; i <= 10; i++)
 {
 
     multiplicacao = numero * i;
 
-    Console.WriteLine(numero + " * " + i + " = " + multiplicacao);
+    Console.WriteLine(i + " * " + numero + " = " + multiplicacao);
 
 }
 
-for (int i = 1; i < 11; i++)
+for (int i = 1; i <=10; i++)
 {
 
     divisao = numero / i;
 
-    Console.WriteLine(numero + " / " + i + " = " + divisao);
+    Console.WriteLine(i + " / " + numero + " = " + divisao);
 } 
