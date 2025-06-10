@@ -15,11 +15,17 @@ for(int i = 1; i < 11; i++)
 }
 for (int i = 1; i < 11; i++)
 {
+    if(numero < i)
+    {
+        subtracao = (-1 * numero) + i;
+    }
 
-    subtracao = numero - i;
+    else
+    {
+        subtracao = numero - i;
+    }
 
     Console.WriteLine(numero + " - " + i + " = " + subtracao);
-
 }
 
 for (int i = 1; i < 11; i++)
